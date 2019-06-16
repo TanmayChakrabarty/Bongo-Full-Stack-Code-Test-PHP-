@@ -31,4 +31,4 @@ $input = array(
     'key7' => 8
 );
 
-//printDepth($input);
+printDepth($input);
